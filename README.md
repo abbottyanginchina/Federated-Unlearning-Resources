@@ -10,7 +10,7 @@
 <!-- In addition, you also can add my wechat: _15179190156_. -->
 
 ## News
-- Our open source code library of FU named _OpenFU_ is coming !!!
+- Our open source code library of FU named _OpenFederatedUnlearning_ is coming !!!
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
